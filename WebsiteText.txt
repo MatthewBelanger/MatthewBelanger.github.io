@@ -1,0 +1,14 @@
+Matthew Belanger's GitHub Website
+
+Projects I completed
+
+1. 20 time project : https://github.com/AYJACKSON-ICS4U/20time-log-due-every-saturday-night-MatthewBelanger
+2. Coding Challenge : https://github.com/AYJACKSON-ICS4U/codingchallenge-space-invaders-challenge
+3. Advanced Js Games and Visualization: https://github.com/AYJACKSON-ICS4U/advanced-js-games-and-visualization-MatthewBelanger
+4. Intro to SQL: https://github.com/AYJACKSON-ICS4U/intro-to-sql-MatthewBelanger
+5. Intro to HTML : https://github.com/AYJACKSON-ICS4U/intro-to-html-css-MatthewBelanger
+6. Learning JS : https://github.com/AYJACKSON-ICS4U/9-projects-on-learning-js-on-khan-MatthewBelanger
+7. Algorithms: https://github.com/MatthewBelanger/Khan-Academy-Algorithm-Projects
+8. Advanced Js Natural Simulations: https://github.com/MatthewBelanger/AdvancedJsNaturalSimulations
+9. Workflow (finished Git It)
+10. GitHub profile
